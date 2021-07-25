@@ -189,19 +189,19 @@ p {
 }
 
 .pool {
-  background: url("https://images.unsplash.com/photo-1596480491965-c749e6689704?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1690&q=80") center;
+  background: url("https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80") center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-.bubble {
-  background: url("https://images.unsplash.com/photo-1514998885429-354290f72fb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80") center;
+.garden {
+  background: url("https://images.unsplash.com/photo-1527863280617-15596f92e5c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80") center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .roll-out {
-  background: url("https://images.unsplash.com/photo-1475859880971-f389e8a1bda8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1651&q=80") bottom;
+  background: url("https://images.unsplash.com/photo-1623091034795-46701649f6e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80") top;
   background-size: cover;
   background-repeat: no-repeat;
 }
