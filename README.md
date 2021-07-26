@@ -22,7 +22,7 @@ Live-to-play is an a static comp challenge, which capitalizes on css grid, flex,
 
 ## Illustrations
 
-![desktop](
+![Desktop](https://user-images.githubusercontent.com/81662051/127029714-eddcf6a4-a95f-419c-886c-f0d0767e8d33.png)
 tablet view | mobile view
 :-------------------------:|:-------------------------:
 ![tablet]() | ![mobile]()
