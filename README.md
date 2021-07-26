@@ -25,7 +25,7 @@ Live-to-play is an a static comp challenge, which capitalizes on css grid, flex,
 ![Desktop](https://user-images.githubusercontent.com/81662051/127029714-eddcf6a4-a95f-419c-886c-f0d0767e8d33.png)
 tablet view | mobile view
 :-------------------------:|:-------------------------:
-![tablet]() | ![mobile]()
+![tablet](<img width="327" alt="Screen Shot 2021-07-25 at 8 43 54 PM" src="https://user-images.githubusercontent.com/81662051/127030056-cc05b8cd-c71b-40e5-974a-12e8a22949cf.png">) | ![mobile]()
 
 ## Future improvements
 
